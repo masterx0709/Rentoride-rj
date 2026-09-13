@@ -1,1 +1,2 @@
-# Rentoride-rj
+# rentoride
+Rentoride bike rental website
